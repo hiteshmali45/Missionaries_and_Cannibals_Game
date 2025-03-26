@@ -37,9 +37,11 @@ print("ML=", missionaries_on_left, "CL=", cannibals_on_left, "| -----B |", "MR="
 ```
 
 ## How to Run the Project
-1. Clone or download this repository.
-2. Open the provided Jupyter notebook in your local environment.
-3. Follow the steps in each lesson to understand and execute the game logic.
-4. Run the code and play the game!
+Clone this repository:
+git clone https://github.com/hiteshmali45/Missionaries_and_Cannibals_Game
 
+Open the Jupyter Notebook:
+jupyter notebook Missionary_Cannibals.ipynb
+
+Follow the steps in the notebook to run the solution and understand the logic.
 
